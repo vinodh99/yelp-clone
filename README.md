@@ -1,1 +1,1 @@
-IF you are looking at this, you know the drill!
+A yelp clone that is used to display the resturants in your location by querying three million records
